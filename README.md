@@ -1,5 +1,6 @@
 ## Welcome to my profile...
 
+> "Much wisdom often goes with fewer words." ~ *Sophocles*
 
 <!--
 **MysterV/MysterV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
