@@ -1,4 +1,4 @@
-## Welcome to my profile...
+# Welcome to my profile...
 
 > "Much wisdom often goes with fewer words." ~ *Sophocles*
 
@@ -9,8 +9,11 @@
     - code snippets for minor QoL improvements
     - Python programming
     - (manual) video games playtesting
-- listening to and creating covers of music (mainly game and movie soundtracks)
+- listening to and creating music (mainly game and movie soundtracks)
     - playing piano
+
+### Footnotes
+- reach me through [myster@ik.me](mailto:myster@ik.me)
 
 <!--
 **MysterV/MysterV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
