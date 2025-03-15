@@ -12,7 +12,7 @@ My life motto:
 
 ## Rambling about myself
 My name is Myster, or`my5ter`, or `MysterV` (variations on the number `5`).  
-Any correlation with real words such as mister or myster is purely coincidental, when I came up with the name `Myster`, I thought it didn't mean anything and would be original.
+Any correlation with real words such as `mister` or `mystery` is purely coincidental, when I came up with the name `Myster`, I thought it didn't mean anything and would be original.
 I'm a perfectionist, and often pay an unhealthy amount of attention to details.  
 
 I love Python programming, and messing around with software in general.  
