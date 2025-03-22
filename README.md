@@ -46,6 +46,7 @@ Biased software recommendations:
 - the best note, information, knowledge and shopping list management app is [Obsidian](https://obsidian.md)
 - the most beautiful web browser is [Zen Browser](https://zen-browser.app/)
 - the best CLI app for downloading media from the internet (not just YouTube) is [yt-dlp](https://github.com/yt-dlp/yt-dlp) (Spotify is not supported (for legal reasons))
+- the best virtual audio equalizer/mixer with *sub-**1ms*** latency is [EqualizerAPO](https://equalizerapo.com/)
 
 <!--
 Here are some ideas to get you started:
