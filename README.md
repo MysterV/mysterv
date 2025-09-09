@@ -1,28 +1,27 @@
 # Welcome to my profile...
-
-## Key words about me
-- perfectionist, overthinker and minimalist (is that combination even possible?)
+Keywords about me
+- generalist, perfectionist, overthinker, minimalist
 - aspiring software developer
 - messes around with software
 - plays piano
 
 My life motto:
-> "It's simple[^1], unless *you* complicate it." ~ *me, 2024*
+> "It's simple, unless *you* complicate it." ~ *me, 2024*
 
+<br>
 
 ## Rambling about myself
-My name is Myster (`/mɪstər/`), aka `my5ter`, or `MysterV` (variations on the number `5`).  
+I'm Myster (`/mɪstər/`), aka `my5ter`, or `MysterV` (variations on the number `5`).  
 
-I'm a perfectionist, and often pay an unhealthy amount of attention to details.  
+I love programming and messing around with software in general.  
+Whenever I come across an app or website, I try to 'fix it up' with various code snippets to remove UI bloat and add *minor* QoL improvements. If I can't find them online, I code them up myself.  
 
-I love Python programming, and messing around with software in general.  
-Everytime I come across a new app or website, I try to 'fix it up' with various code snippets, to remove some UI elements and add *minor* QoL improvements. If I can't find them online, I code them up myself.  
+Whenever I come across a video game, I go as far off the intended path as possible, mess around and invent my own route.
+Sometimes™️ I share my experience on my [YT channel](https://www.youtube.com/@my5ter) (tho keep most of it to myself, no willpower to go through hundreds of hours of footage)  
 
-Everytime I come across a new video game, I try to go as far off the intended way to play it as possible, and invent my own route, or at least mess around.  
-Sometimes™️ I share my experience on my [YT channel](https://www.youtube.com/@my5ter) (but most of it stays in my `Videos` folder, as I have no willpower to go through 100+ hours of game footage to polish and release it...)  
+I love music and playing piano (mostly game and movie soundtracks). Sometimes™️ I share my playing on my [second YT channel](https://www.youtube.com/@MysterV).
 
-I love music, and playing piano (mostly game and movie soundtracks). Sometimes™️ I share my playing on my [second YT channel](https://www.youtube.com/@MysterV).
-
+<br>
 
 ## Numbers
 <div align="center">
@@ -34,13 +33,15 @@ I love music, and playing piano (mostly game and movie soundtracks). Sometimes�
     <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,html,css,powershell,bash,mysql,md" /></a><br><br>
     <a href="https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#usage-2"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MysterV&theme=aura&layout=compact" /></a><br>
     <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=MysterV&theme=aura&date_format=Y-m-d" alt="GitHub Streak" /></a><br>
-</div><br>
+</div>
 
+*don't trust the CSS supremacy, it's a lie (I dumped a bunch of CSS libraries into my web projects), Python is the real number one.
 
+<br>
 
 ### Personal Software Picks (not sponsored)
 Function
-- [Obsidian](https://obsidian.md): offline-first, Markdown-based all-in-one: note-making, information & knowledge management, todo and shopping list, web browser-ish, database-ish app
+- [Obsidian](https://obsidian.md): offline-first, Markdown-based all-in-one: note-making, task, info & knowledge management, todo and shopping list, web browser-ish, database-ish app
 - [TinyTask](https://tinytask.net/): very lightweight, yet powerful macro software, that pretty much records what you do, and then repeats it perfectly dot for dot
 - [PowerToys](https://github.com/microsoft/PowerToys): a set of useful tools developed by Microsoft, that didn't make it into the official releases of Windows
 - [WizFile](https://antibody-software.com/wizfile/): an extremely fast file finder that caches your entire hard drive and then can search any string in a path at lightning speed
@@ -67,9 +68,4 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
-
-[^1]: To be simple. ≠ To be lazy. It means to be precise, concise and specific. It means providing just what's relevant or needed.
